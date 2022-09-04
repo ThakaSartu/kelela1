@@ -8,11 +8,32 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+
+<IMG src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/164647300_287151859437796_3986204225891649460_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=v86R7_WVh-gAX-NwtAb&_nc_ht=scontent-lax3-2.xx&oh=00_AT-BjoRlJ5h3-ufbPZjC5_7_lJ6Pc-_wRoGmBYZKJEj96Q&oe=6339CC8A">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://live.staticflickr.com/8336/8426331812_40a04cc462_z.jpg"  target="_blank"><img src="https://imgix.bustle.com/lovelace/getty/539580102.jpg"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://live.staticflickr.com/8336/8426331812_40a04cc462_z.jpg"  target="_blank"><img src="https://imgix.bustle.com/lovelace/getty/539580102.jpg"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
 ## ViNTAGE_ELECTRONiKA::ORBiTAL 
 [Orbital - Halcyon Extended Version (Official Music Video)](https://www.youtube.com/watch?v=OO-jHGCX2Gc) 
 
-
-
+[OLD_LEAFLY](https://web.archive.org/web/20150317133139/http://www.leafly.com/hybrid/blue-crack)
+<hr>
 ## When Does 'Yes' Not Mean 'Yes'?
 In recent years, there's been a lot of media discussion regarding rape culture, the boundaries of consent, and “no means no” — so why is no one talking about sexual coercion? With California's recent adoption of the nation's first Yes Means Yes law — which asserts that the absence of the word "no" does not constitute sexual consent — we seem to finally be grasping the reasons why a person might not be able to say "no" to sex, even though they want to. But what about people who say "yes" to sex under duress? Why aren't we educating people about the times when "yes" might not actually mean "yes"?
 [ReadMore](https://www.bustle.com/articles/67926-is-it-rape-if-you-say-yes-5-types-of-sexual-coercion-explained)
