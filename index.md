@@ -8,6 +8,47 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+## ViNTAGE_ELECTRONiKA::ORBiTAL 
+[Orbital - Halcyon Extended Version (Official Music Video)](https://www.youtube.com/watch?v=OO-jHGCX2Gc) 
+
+
+
+## When Does 'Yes' Not Mean 'Yes'?
+In recent years, there's been a lot of media discussion regarding rape culture, the boundaries of consent, and “no means no” — so why is no one talking about sexual coercion? With California's recent adoption of the nation's first Yes Means Yes law — which asserts that the absence of the word "no" does not constitute sexual consent — we seem to finally be grasping the reasons why a person might not be able to say "no" to sex, even though they want to. But what about people who say "yes" to sex under duress? Why aren't we educating people about the times when "yes" might not actually mean "yes"?
+[ReadMore](https://www.bustle.com/articles/67926-is-it-rape-if-you-say-yes-5-types-of-sexual-coercion-explained)
+
+## I Didn’t Say No — But It Was Still Rape @bustle
+“You OK?” A boy asks me in the middle of consensual sex. His hands are firm on my hips, his breathing ragged in my ear. I turn my head to the side, twist my mouth into a grimace. He’s having trouble getting off, he tells me. He’ll finish soon, he promises. One quick thrust.
+
+“It hurts,” I tell him.
+
+“You want to stop?” He says without pausing. There's a slight annoyance in his voice when he continues, “I’m really close.”
+
+I don’t remember the feel of this boy’s hands, I don’t remember his caresses or kisses, I don’t remember the words he said to me before we started having sex. I do remember his heaviness pressed against me, the way he pinned me down by the very act of what we we're doing; his erratic, persistent, insistent movements, his loud pleasure and my pain. I remember speaking this quiet, muffled answer: “Kind of.” But it’s unclear — I will remind myself later, for days, for weeks, for years — what exactly I have said "kind of," to. It’s too noncommittal and it’s too late...[ReadMore](http://affirmativeconsent.com/how-do-you-ask-for-consent/?hvid=3vSWGR)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <a href="https://open.spotify.com/track/71BKOfgTbVWg7PoMj4JMzP?si=8157769a0f644e11"  target="_blank"><img src="https://imgix.bustle.com/lovelace/getty/539580102.jpg"> </a>
+        </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://open.spotify.com/track/71BKOfgTbVWg7PoMj4JMzP?si=8157769a0f644e11"  target="_blank"><img src="https://imgix.bustle.com/lovelace/getty/539580102.jpg"> </a>
+         </div>
+    </div>
+  </div>
+</div>
+
+
+
+## Bustle::The Justice For Victims Act Is A Huge Step Forward
+Sexual assault laws differ from state to state — depending on where you live, you have anywhere between three years and your entire life to report a rape. In California, the statute of limitations for rape is 10 years, but that may change soon. On Thursday, Aug. 18, the State Assembly of California passed the Justice for Victims Act, a bill that could potentially overturn the statute of limitations for prosecuting rape and other felony sex crimes. The bill, however, still needs to move through the State Senate and be signed by the governor before being officially [enacted...]()
+
+<hr>
+[Inside Louvre Museum Paris, Mona Lisa - (Part 1) 🇫🇷 France - 4K Walking Tour](https://www.youtube.com/watch?v=6vuFh6NNa70)
+
 ## ኬሊላ
 <IMG src="https://thephotoacademy.com/storage/magazine/444/THE-PHOTO-ACADEMY-courses-nature-7.jpg">
 
