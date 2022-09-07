@@ -9,9 +9,17 @@
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
 
+## Dear KeLeLa 
+BMX was the standard when I grew up, I really want the kids to have the old style, they are good for jumpin
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/UrgaN_OQ_c4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="border-radius:25px" src="https://open.spotify.com/embed/track/5YDTdbFJSzOaIu7ea5eG9D?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/kelela/master/assets/images/ubuntu-1-logo-png-transparent4KELELA_an_FREEDOM_and_i_I_GOT_TO_GET_YOU_AND_FREEDOM_ON_MARS_LIKE_CORAL_AND_ERIKA.png" alt="##KELELAH_iS_HELPING_ME_GET_MY_SHiYT_TAHGETHAH">
+
 ## Hey Mommie! I love you,
- [Check out _WiFEHumas_Place!](https://thakasartu.github.io/huma/) There is some really healthy info in there about Googles Summer oF Code. Theres shit to do, you 
-<div class="herrollover">
+
+ [Check out _WiFEHumas_Place!](https://thakasartu.github.io/huma/) There is some really healthy info in there about Googles Summer oF Code. Theres shit to do, you know i got that BMX_flow... Always working, even when cohabitation commences, I like being healthy productive... My background in DevOPs and DATACENTER_OPERATIONS on the side of my life in Jehovahs Witnesses and Surviving Erika, Muna, and WillieKellYJR left my ass wit a work ethic that I can only work healthily in the household... Corporate want yo asshole and my manager that fired me was doin it with his boss and took it out on me after he bought muna in prostitution. Im Dance411's DevOps/Web/Git_Engineer so im holding it down for our Selassie_House_Studio and what my Wife_Clan direct. Im ready for baby duty... We have to track her as closely as possible, you know Mashonga captures our children like a Teddy_Rosavelt_Era ##BiG_GAME_HUNTER.... Jackson got kidnapped, Coral and Cynthia are living some 90s rated-R movie Stand_BY_ME LOST_BOYS lifestyle and I dont want that for Freedom, How do we do better and not repeat blatant mistakes? ##ATTENTION_TO_DETAIL, but how do you detail orient yourself without being unpleasant... Some members of our household Like Ahshanti get hurt and I dont wanna be too critical, I worked with critical people so long, I dont wanna hurt you guys in ignorance. The American women are so sensitive in certain ways that Im understanding is normal because they have a completely different energetic flow growing up in North America, Similar to me  but once I got reunited with our Ethiopian family I lost a lot of my American culture becauseI started acting equivelent to SoCAL Jamaican, Somalian+NORTH_AMERICA... Some ppl say we harsh in the middle east, I just hope I dont hurt folk feelins and im scared. The lonelyness from yall kidnapping and prostitution make get way too in my head and its hard to enjoy the short slits of time we get to interact... Interact, now I know the pimps will punish me knowing more detail about how I get some fulfillment just passing by or sitting in the same train car
+ <IMG src="https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/8c/66/d9/8c66d9c4-09a8-4b34-76ff-0da11734c166/888915414774_cover.jpg/600x600bf-60.jpg">
+<iframe style="border-radius:25px" src="https://open.spotify.com/embed/album/4s2SskZM1XzhPpIIiaJtDm?utm_source=generator" width="100%" height="333" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   <div class='twoPanelSpread'>
     <div class='row'>
       <div class='panelColumn'>
@@ -32,7 +40,7 @@ One day my blog will `RETURN true` when run from the [command](https://youtu.be/
       </div>
     </div>
   </div>
-</div>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5khAYmr8HHFwI3sp0Lw9wp?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [https://css.glass/](https://css.glass/)
