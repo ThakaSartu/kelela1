@@ -996,4 +996,40 @@ Relative position for absolute caption
 }
 
 	
-	
+	/* KELEA_IS_MY_WIFE_OF_A_LIFE_TIME_OF_LATENIGHT_AFRICAN_STEROTYPES_ON_VHSRiP_OLSKOOL_USA_NETOWRK_MOViE_LOVE_IN_REAL_ASS_LIFE */
+  /* special image effects and containers */
+  .herrollover {
+    margin: auto;
+    width: 500px;
+  }
+  
+  img {
+    border-radius: 50px;
+  }
+  
+  /* image effect */
+  .rollover {
+    position: relative;
+    display: inline-block;
+  }
+  .rollover img {
+    transition: opacity 1.5s ease-in-out;
+    backface-visibility: hidden;
+  }
+  .rollover .first {
+    top: 0;
+    left: 0;
+  }
+  .rollover .second {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+  }
+  .rollover:hover .first {
+    opacity: 0;
+  }
+  .rollover:hover .second {
+    opacity: 1;
+  }
+  

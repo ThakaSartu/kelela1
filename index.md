@@ -7,12 +7,38 @@
 
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+<hr>
 
-
+## Hey Mommie! I love you,
+ [Check out _WiFEHumas_Place!](https://thakasartu.github.io/huma/) There is some really healthy info in there about Googles Summer oF Code. Theres shit to do, you 
+<div id="herrollover">
+  <div class='twoPanelSpread'>
+    <div class='row'>
+      <div class='panelColumn'>
+        <div class='leftColumn'>
+          <a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
+            <img src="https://images.genius.com/eed3e5e0e3f7246c40c5aee31132f6ec.1000x1000x1.jpg" class="first">
+            <img src="http://images.genius.com/f8e5758a77059c73c237b10adbf3326b.1000x1000x1.jpg" class="second">
+          </a>
+        </div>
+      </div>
+      <div class='panelColumn'>
+        <div class='rightColumn'>
+          <a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
+            <img src="https://images.genius.com/eed3e5e0e3f7246c40c5aee31132f6ec.1000x1000x1.jpg" class="second">
+            <img src="http://images.genius.com/f8e5758a77059c73c237b10adbf3326b.1000x1000x1.jpg" class="first">
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5khAYmr8HHFwI3sp0Lw9wp?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [https://css.glass/](https://css.glass/)
 [CSS conic-gradient() polyfill](https://projects.verou.me/conic-gradient/)
 [Marshmello - Alone](https://www.youtube.com/watch?v=ALZHF5UqnU4)
+
 <IMG src="https://scontent-lax3-2.xx.fbcdn.net/v/t1.6435-9/164647300_287151859437796_3986204225891649460_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=v86R7_WVh-gAX-NwtAb&_nc_ht=scontent-lax3-2.xx&oh=00_AT-BjoRlJ5h3-ufbPZjC5_7_lJ6Pc-_wRoGmBYZKJEj96Q&oe=6339CC8A">
 <div class='twoPanelSpread'>
   <div class='row'>
