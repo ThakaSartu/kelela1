@@ -8,12 +8,20 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 <hr>
+
+## ሰላም ኬሊላ
+### Dance_MOViE_CLASSiK::RiZE::SoCAL_DANCERS_WATCH
+<iframe width="100%" height="355" src="https://www.youtube.com/embed/M4RxU0FjDqY" title="Rize - Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="100%" height="375" src="https://www.youtube.com/embed/7DXD1HBaLX0" title="Style Wars - legendary graffiti documentary (1983) DVD RIP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="351" src="https://www.youtube.com/embed/XOHvOhADAic" title="Fearless Four - Rockin´ it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="border-radius:25px" src="https://open.spotify.com/embed/track/3ul472LF6y5SHkHAfTrkkG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/9I56Kkxh_os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/YKe8lHZCi9E" title="CES vs BIO....NYC graffiti battle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Word on the street yo brother-in-law in FX_CREW
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/jjdiWXVehxk" title="Graffiti FX Cru The Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4KFpsgZYM0p34nJAXeW6WV?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<hr>
 
 ## Dear KeLeLa 
 BMX was the standard when I grew up, I really want the kids to have the old style, they are good for jumpin
